@@ -61,3 +61,5 @@ Record Types (User-defined)	For storing heterogeneous data fields together
 Collections (Nested Table)	For storing multiple record entries
 GOTO / Labels	For skipping elements under certain conditions
 DBMS_OUTPUT	For displaying results
+
+
